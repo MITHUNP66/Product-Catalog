@@ -57,12 +57,12 @@ class product {
 public class classtes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-ele e=new ele("mitun",30000,"tui",3);
-e.display();
-System.out.println();
-clot c=new clot("mitun",30,"m","cotton");
-c.display();
-	}
-}
+		
+          ele e=new ele("mitun",30000,"tui",3);
+          e.display();
+           System.out.println();
+           clot c=new clot("mitun",30,"m","cotton");
+          c.display();
+ 	}
+ }
 
